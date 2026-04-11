@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there I'm Hanzala 👋
 
-<!--
-**HSundal00/HSundal00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT & Cybersecurity Professional based in the DFW area, currently finishing my Bachelor's in Information Systems Cybersecurity at Collin College (May 2026).
+I break things, fix things, and secure things — usually in that order.
 
-Here are some ideas to get you started:
+🔧 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tier 1/2 IT support across desktops, networks, VPNs, and servers
+Ticketing & incident management (ServiceNow, Salesforce)
+Linux & Windows administration
+Network security, ACLs, and segmentation
+
+📚 Currently Learning
+
+Python scripting for automation
+Home lab projects (Active Directory, pfSense, SIEM)
+Working toward:
+- Being proficient at Python
+- CompTIA Network+
+- CCNA
+- Fortinet NSE Certs
