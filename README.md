@@ -1,6 +1,6 @@
 ## Hi there I'm Hanzala 👋
 
-IT & Cybersecurity Professional based in the DFW area, currently finishing my Bachelor's in Information Systems Cybersecurity at Collin College (May 2026).
+IT & Cybersecurity Professional based in the DFW area with my Bachelors in Applied Technology in Cybersecurity
 I break things, fix things, and secure things — usually in that order.
 
 🔧 What I Do
@@ -10,12 +10,3 @@ Ticketing & incident management (ServiceNow, Salesforce)
 Linux & Windows administration
 Network security, ACLs, and segmentation
 
-📚 Currently Learning
-
-Python scripting for automation
-Home lab projects (Active Directory, pfSense, SIEM)
-Working toward:
-- Being proficient at Python
-- CompTIA Network+
-- CCNA
-- Fortinet NSE Certs
